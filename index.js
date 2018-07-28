@@ -5,7 +5,7 @@ divide = (a , b) => a / b
 inc = n => n + 1
 dec = n => n - 1
 makeInt = n => parseInt(n)
-preserveDecimal = n => parseFloat
+preserveDecimal = n => parseFloat(n)
 
 
 module.exports = {
