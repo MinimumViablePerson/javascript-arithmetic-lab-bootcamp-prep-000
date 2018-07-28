@@ -16,5 +16,5 @@ module.exports = {
   inc,
   dec,
   makeInt,
-  preserveDecimal,
+  preserveDecimal
 }
